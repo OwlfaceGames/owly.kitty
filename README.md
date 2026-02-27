@@ -35,6 +35,7 @@ If you have the `kitty-themes` repository cloned:
 ```bash
 # Clone the theme into your kitty themes directory
 git clone https://github.com/owlfacegames/melangey-kitty ~/.config/kitty/themes/melangey
+```
 
 ## Support
 If you like my work, consider supporting me through [GitHub Sponsors](https://github.com/sponsors/OwlfaceGames)🩷
