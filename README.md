@@ -23,10 +23,10 @@ This kitty theme is not great without a custom prompt as the colourscheme is cen
 2. Copy it to your Kitty configuration directory:
    ```bash
    # On macOS/Linux
-   cp melangey.conf ~/.config/kitty/
+   cp owly.conf ~/.config/kitty/
    
    # On macOS (alternative location)
-   cp melangey.conf ~/Library/Preferences/kitty/
+   cp owly.conf ~/Library/Preferences/kitty/
    ```
 3. Include the theme in your `kitty.conf`:
    ```
