@@ -19,7 +19,7 @@ This kitty theme is not great without a custom prompt as the colourscheme is cen
 
 ### Manual Installation
 
-1. Download the `melangey.conf` file from this repository
+1. Download the `owly.conf` file from this repository
 2. Copy it to your Kitty configuration directory:
    ```bash
    # On macOS/Linux
@@ -30,7 +30,7 @@ This kitty theme is not great without a custom prompt as the colourscheme is cen
    ```
 3. Include the theme in your `kitty.conf`:
    ```
-   include melangey.conf
+   include owly.conf
    ```
 4. Reload Kitty configuration: `Ctrl+Shift+F5` (or `Cmd+Shift+F5` on macOS)
 
@@ -40,7 +40,7 @@ If you have the `kitty-themes` repository cloned:
 
 ```bash
 # Clone the theme into your kitty themes directory
-git clone https://github.com/owlfacegames/melangey-kitty ~/.config/kitty/themes/melangey
+git clone https://github.com/owlfacegames/owly.kitty ~/.config/kitty/themes/owly
 ```
 
 ## Support
