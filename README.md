@@ -9,6 +9,12 @@ Kitty theme based on my Neovim colourscheme [owly.nvim](https://github.com/Owlfa
 - For the matching Neovim theme see [owly.nvim](https://github.com/OwlfaceGames/owly.nvim)
 - For the matching Tmux theme see [owly.kitty](https://github.com/OwlfaceGames/owly.tmux)
 
+### Note
+
+For the best experience with this theme use [starship](https://starship.rs/) and [promptly](https://github.com/OwlfaceGames/promptly), my prompt theme manager. In promptly select starship then owly, that is my exact terminal config.
+
+This kitty theme is not great without a custom prompt as the colourscheme is centered around getting the experience I want out of the tui apps I use.
+
 ## Installation
 
 ### Manual Installation
