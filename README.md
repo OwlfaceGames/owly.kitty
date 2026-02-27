@@ -1,4 +1,4 @@
-# Owly Tmux
+# Owly Kitty
 
 Kitty theme based on my Neovim colourscheme [owly.nvim](https://github.com/OwlfaceGames/owly.nvim).
 
